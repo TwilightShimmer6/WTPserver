@@ -92,7 +92,7 @@
                             [
                                 [15, 0, 0, 148, 80, 0, 0, 1, 0, 0, 0, 0, []], 4, 10, [],
                                 [],
-                                ["Launching...", 0, "12pt Arial", "rgb(0,255,0)", 2, 0, 0, 0, 0]
+                                ["Launching...", 0, "12pt Arial", "rgb(173,139,201)", 2, 0, 0, 0, 0]
                             ],
                             [
                                 [13, 64, 0, 151, 134, 0, 0, 1, 0, 0, 0, 0, []], 9, 12, [],
@@ -163,7 +163,7 @@
                             ],
                             [
                                 [4, 16, null, 980954313817093, false, [
-                                    [7, [2, "sorry but the server works on Firefox andChrome only"]]
+                                    [7, [2, "Sorry but the server only works on Firefox and Chrome"]]
                                 ]],
                                 [4, 17, null, 981730996766742, false, [
                                     [0, [19, 18, [
@@ -255,11 +255,11 @@
                             [
                                 [7, 35, null, 527104180534181, false, [
                                     [1, [2, "background-color"]],
-                                    [1, [2, "transparent"]]
+                                    [1, [2, "white"]]
                                 ]],
                                 [7, 35, null, 832109316415302, false, [
                                     [1, [2, "color"]],
-                                    [1, [2, "green"]]
+                                    [1, [2, "purple"]]
                                 ]],
                                 [7, 35, null, 597853292070138, false, [
                                     [1, [2, "size"]],
@@ -1812,7 +1812,7 @@
                         ]],
                         [8, 36, null, 937065416441225, false, [
                             [1, [2, "AddLog"]],
-                            [13, [7, [2, "A message had been sent to all players,  please wait for 2 minutes so fairies can say goodbye to their pals"]]]
+                            [13, [7, [2, "A message has been sent to all players,  please wait 2 minutes so fairies can say goodbye to their friends"]]]
                         ]],
                         [-1, 21, null, 190500737108783, false, [
                             [11, "startcount"],
